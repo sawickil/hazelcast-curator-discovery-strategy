@@ -1,0 +1,1 @@
+# hazelcast-curator-discovery-strategy
